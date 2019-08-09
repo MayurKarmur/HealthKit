@@ -1,4 +1,4 @@
-# RBHealthKit
+# HealthKit
 Demo of the health kit how steps count and blood pressure will be synced.
 
  ## Requirements
